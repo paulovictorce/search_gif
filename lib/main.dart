@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:search_giphy/ui/gif_page.dart';
 import 'package:search_giphy/ui/home_page.dart';
 
 void main() {
